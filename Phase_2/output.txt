@@ -1,0 +1,4 @@
+
+
+ terminated abnormally due to Operand Error
+IC=1, IR=GDo0, C=0, R=, TTL=4, TTC=0, TLL=1, LLC=0
